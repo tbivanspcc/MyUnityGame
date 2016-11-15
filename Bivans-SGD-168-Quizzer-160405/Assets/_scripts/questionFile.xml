@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<questionList>
+	<question>
+		<questionTitle>What is question</questionTitle>
+		<questionText>what is?</questionText>
+		<answer score="100">A</answer>
+		<answer score="0">B</answer>
+		<answer score="0">C</answer>
+		<answer score="0">D</answer>
+	</question>
+
+
+	<question>
+		<questionTitle>What is question</questionTitle>
+		<questionText>what is?</questionText>
+		<answer score="0">A</answer>
+		<answer score="100">B</answer>
+		<answer score="0">C</answer>
+		<answer score="0">D</answer>
+	</question>
+
+	<question>
+		<questionTitle>What is question</questionTitle>
+		<questionText>what is?</questionText>
+		<answer score="0">A</answer>
+		<answer score="0">B</answer>
+		<answer score="100">C</answer>
+		<answer score="0">D</answer>
+	</question>
+
+	<question>
+		<questionTitle>What is question</questionTitle>
+		<questionText>what is?</questionText>
+		<answer score="0">A</answer>
+		<answer score="0">B</answer>
+		<answer score="0">C</answer>
+		<answer score="100">D</answer>
+	</question>
+
+
+
+
+
+</questionList>

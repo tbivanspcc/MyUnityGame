@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$course$/Breaking into the Game Industry</text>
+
+    </category>
+  </question>
+
+<!-- question: 392353  -->
+  <question type="multichoice">
+    <name>
+      <text>2</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Choosing your game development discipline is:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>The first step in finding a school and/ or starting to pursue a carrer in the game industry</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>the second step after finding a school in game design</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>something that generalist do not have to worry about</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392373  -->
+  <question type="multichoice">
+    <name>
+      <text>22</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Before going to a conference you should have:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>resume, portfolio and business cards</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>business cards, twitter account</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>twitter, facebook, resume</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>resume, portfolio and twitter</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392376  -->
+  <question type="multichoice">
+    <name>
+      <text>25</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>When the senior developer you asked to look at your portfolio tells you that your work over the last two years is not very good, and offers you some advice, you should:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Thank him, and address the issues before submitting the potfolio to a company.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Defend your work, and tell him that his comments are his opinion.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Thank him for his opinion, but dont take the advise you dont agree with.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Tell him that he doesn't know what he is talking about.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392368  -->
+  <question type="multichoice">
+    <name>
+      <text>Q14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Specialists have:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>a narrow focus and do one or few things really well</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>a broad focus and do a lot of things ok</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392369  -->
+  <question type="multichoice">
+    <name>
+      <text>Q14-B</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Generalists have:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>a broad focus and do a lot of things ok</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>a narrow focus and do one or few things really well</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392380  -->
+  <question type="multichoice">
+    <name>
+      <text>Q15 -</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>If you don't really enjoy MAKING games, then -</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text><![CDATA[<p>Your answer is correct.</p>]]></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text><![CDATA[<p>Your answer is partially correct.</p>]]></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text><![CDATA[<p>Your answer is incorrect.</p>]]></text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>you should find another career to go into.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>you can learn all that you need from watching YouTube videos</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>you can learn everything from reading good books on the subject</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>you can learn what you need from Gamasutra.com</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392354  -->
+  <question type="multichoice">
+    <name>
+      <text>Q2-B</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Two draw backs to college are:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>It takes time, and is expensive</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>you will not be working on games, and is expensive</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>It is fast and cheap</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>you have to take a bunch of worthless classes, and it is expensive</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392356  -->
+  <question type="multichoice">
+    <name>
+      <text>Q3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>What percentage of my school work will help me get a job?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>All of it or none of it. Its what you get out of it</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>I dont know.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>75% I will be pursuing a focused degree</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>not much. because college makes you take non relevent classes.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392357  -->
+  <question type="multichoice">
+    <name>
+      <text>Q4-A</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>What classes are actually useful?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>All of them. Game designers need to be well rounded</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>only the ones in my major</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>only the ones that have SGD in the name</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>the classes that are relevent to my disipline</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392358  -->
+  <question type="multichoice">
+    <name>
+      <text>Q5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Does my GPA Matter?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Yes. Students with low GPAs tend not to have good portfolios</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No. My employer will not ask for my transcripts</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No. I plan to drop out after a year</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Yes, But only in my game design classes</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392359  -->
+  <question type="multichoice">
+    <name>
+      <text>Q6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Do Studios put weight on the the school or degree?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Usually no, but some studios and schools have working relationships usually due to previous graduates</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Yes. Studios have researched all the major degree programs in the world.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No. Studios judge strictly on your portfolio</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392360  -->
+  <question type="multichoice">
+    <name>
+      <text>Q7</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Should I care about Video Game history?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>If you don’t know who Shigeru Miyamoto or Alan Bushnell are you will be lost.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No. the only games that matter are the ones on the current consoles.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No. Atari isn't relevant in todays world.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Yes. because ET was the best game of all time.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392361  -->
+  <question type="multichoice">
+    <name>
+      <text>Q8</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Is a Graduate Degree useful?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Yes. If it helps you create a better portfolio, or you plan to teach.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No. It is just more expensive school.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>No. It will take too much time.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Yes. the higher the degree, the more the studio will want me.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392365  -->
+  <question type="truefalse">
+    <name>
+      <text>14</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The game industry has a high burn out rate and a degree can help you get a job after.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392370  -->
+  <question type="truefalse">
+    <name>
+      <text>19</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>It is easy to get a job in the game industry without knowing anyone.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392371  -->
+  <question type="truefalse">
+    <name>
+      <text>20</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>The best place to meet industry professionals is at Comic Con. Not ECGC.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392374  -->
+  <question type="truefalse">
+    <name>
+      <text>23</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>I should follow up with someone’s card I received immediately after the conference</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392375  -->
+  <question type="truefalse">
+    <name>
+      <text>24</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>I should send a game developer I just met a 3 page email about my game idea, have him look at at my portfolio and ask him if his company has any internship opportunities.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392377  -->
+  <question type="truefalse">
+    <name>
+      <text>26</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>You should get twitter, and be active in social media to help monitor the game industry</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392378  -->
+  <question type="truefalse">
+    <name>
+      <text>27</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>You should get twitter and start responding to developer tweets about how to make games</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392379  -->
+  <question type="truefalse">
+    <name>
+      <text>28</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Question 28 has some of the best answers in the book.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392355  -->
+  <question type="truefalse">
+    <name>
+      <text>4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>You can break into the game industry if you have epic discipline and create an exceptional portfolio, and acquire some industry contacts</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392364  -->
+  <question type="truefalse">
+    <name>
+      <text>Q10</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p> If you are an extremely driven, self-motivated learner that that forces himself to study, and spends more time making games and creating Mods than playing games, an undergraduate degree is not for you</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392366  -->
+  <question type="truefalse">
+    <name>
+      <text>Q11</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Grinding a World of Warcarft character for 2 months will teach you about game design.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392367  -->
+  <question type="truefalse">
+    <name>
+      <text>Q11-B</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>As a student playing to learn, the higher your in game score, the more you learn.</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392372  -->
+  <question type="truefalse">
+    <name>
+      <text>Q13</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Game designers need to learn how to program?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392362  -->
+  <question type="truefalse">
+    <name>
+      <text>Q9</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Game programmers don’t need to learn C or C++</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 392363  -->
+  <question type="truefalse">
+    <name>
+      <text>Q9-b</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>If you are programming in a language without pointers, you are on the low end of the pay scale</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>1.0000000</penalty>
+    <hidden>0</hidden>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>true</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>false</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
